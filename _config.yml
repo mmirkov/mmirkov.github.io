@@ -17,7 +17,7 @@ author:
   name:           'Miroslav Mirkov'
   url:            https://mmirkov.github.io
 
-paginate:         5
+paginate:         10
 
 # Custom vars
 version:          2.1.0
