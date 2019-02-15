@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###########
 # site.title, site.url, site.author.name
 
@@ -30,3 +31,6 @@ exclude:
 safe: true
 lsi: false
 
+=======
+theme: jekyll-theme-minimal
+>>>>>>> 8650d46bcf6b6428cd630ce77f3b5bd6ffdb1b89
