@@ -1,36 +1,26 @@
-<<<<<<< HEAD
-###########
-# site.title, site.url, site.author.name
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-title:   'Jekyll Minimal Theme'
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
 author:
-  name:  'Jekyll Minimal Theme Team'
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-## note: 
-#  use site.path in your templates to make it work for both protocols e.g. http and https
-#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-path: /jekyll-minimal-theme  
-url:  'http://henrythemes.github.io/jekyll-minimal-theme'
+paginate:         5
 
+# Custom vars
+version:          2.1.0
 
-########
-# more settings
-
-markdown: kramdown
-
-sass:
-  sass_dir: css
-  style:    expanded
-
-permalink: /:title.html
-
-exclude:
-- README.md
-
-
-safe: true
-lsi: false
-
-=======
-theme: jekyll-theme-minimal
->>>>>>> 8650d46bcf6b6428cd630ce77f3b5bd6ffdb1b89
+github:
+  repo:           https://github.com/poole/hyde
