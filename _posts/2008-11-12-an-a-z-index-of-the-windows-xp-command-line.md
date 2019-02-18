@@ -4,7 +4,7 @@ title: An A-Z Index of the Windows XP command line
 date: 2008-11-12T21:44:17+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=294
+guid: https://mirkov.info/?p=294
 permalink: /an-a-z-index-of-the-windows-xp-command-line/
 categories:
   - HowTo

@@ -4,7 +4,7 @@ title: 'Enable &#8220;Subject:&#8221; logging in Postfix'
 date: 2016-04-21T22:06:27+00:00
 author: Miroslav Mirkov
 layout: post
-guid: http://mirkov.info/?p=791
+guid: https://mirkov.info/?p=791
 permalink: /enable-subject-logging-in-postfix/
 categories:
   - HowTo

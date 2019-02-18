@@ -13,4 +13,4 @@ Use the following command to clear you cached memory:
 
 <pre>root@linux [~]# echo 1 &gt; /proc/sys/vm/drop_caches</pre>
 
-[<img class="aligncenter wp-image-688 size-full" src="http://mirkov.info/wp-content/uploads/2014/04/cache.png" alt="clear cached memory" width="750" height="277" srcset="http://mirkov.info/wp-content/uploads/2014/04/cache.png 750w, http://mirkov.info/wp-content/uploads/2014/04/cache-300x110.png 300w" sizes="(max-width: 750px) 100vw, 750px" />](http://mirkov.info/wp-content/uploads/2014/04/cache.png)
+[<img class="aligncenter wp-image-688 size-full" src="https://mirkov.info/wp-content/uploads/2014/04/cache.png" alt="clear cached memory" width="750" height="277" srcset="https://mirkov.info/wp-content/uploads/2014/04/cache.png 750w, https://mirkov.info/wp-content/uploads/2014/04/cache-300x110.png 300w" sizes="(max-width: 750px) 100vw, 750px" />](https://mirkov.info/wp-content/uploads/2014/04/cache.png)

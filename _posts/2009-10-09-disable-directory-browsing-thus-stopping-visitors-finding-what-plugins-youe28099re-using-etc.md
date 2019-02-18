@@ -4,7 +4,7 @@ title: Disable directory browsing (thus stopping visitors finding what plugins y
 date: 2009-10-09T06:33:00+00:00
 author: Мирков
 layout: post
-guid: 'http://mirkov.info/2009/10/disable-directory-browsing-thus-stopping-visitors-finding-what-plugins-you%e2%80%99re-using-etc/'
+guid: 'https://mirkov.info/2009/10/disable-directory-browsing-thus-stopping-visitors-finding-what-plugins-you%e2%80%99re-using-etc/'
 permalink: '/disable-directory-browsing-thus-stopping-visitors-finding-what-plugins-you%e2%80%99re-using-etc/'
 categories:
   - Uncategorized

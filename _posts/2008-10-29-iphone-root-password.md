@@ -4,7 +4,7 @@ title: iPhone root парола
 date: 2008-10-29T17:15:34+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=275
+guid: https://mirkov.info/?p=275
 permalink: /iphone-root-password/
 categories:
   - HowTo
@@ -15,4 +15,4 @@ categories:
 username: root  
 password: alpine
 
-Логвате се в телефона и цъкате на воля<img src='http://mirkov.info/wp-includes/images/blank.gif' alt=':)' class='wp-smiley smiley-2' />
+Логвате се в телефона и цъкате на воля<img src='https://mirkov.info/wp-includes/images/blank.gif' alt=':)' class='wp-smiley smiley-2' />

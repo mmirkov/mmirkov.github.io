@@ -4,7 +4,7 @@ title: iPhone 3.0 Firmware new features
 date: 2009-06-15T06:42:25+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=457
+guid: https://mirkov.info/?p=457
 permalink: /iphone-30-firmware-new-features/
 categories:
   - Tech

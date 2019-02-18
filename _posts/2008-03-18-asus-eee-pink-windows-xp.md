@@ -4,7 +4,7 @@ title: 'Asus EEE pink &#038; Windows XP'
 date: 2008-03-18T10:49:11+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=69
+guid: https://mirkov.info/?p=69
 permalink: /asus-eee-pink-windows-xp/
 categories:
   - HowTo

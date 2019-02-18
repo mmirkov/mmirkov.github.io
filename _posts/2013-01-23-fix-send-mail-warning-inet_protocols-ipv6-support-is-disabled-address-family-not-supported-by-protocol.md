@@ -4,7 +4,7 @@ title: 'Fix: send-mail: warning: inet_protocols: IPv6 support is disabled: Addre
 date: 2013-01-23T16:13:46+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=575
+guid: https://mirkov.info/?p=575
 permalink: /fix-send-mail-warning-inet_protocols-ipv6-support-is-disabled-address-family-not-supported-by-protocol/
 categories:
   - Tech

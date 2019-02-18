@@ -4,7 +4,7 @@ title: 'Социалните мрежи &#8211; now and before'
 date: 2008-02-20T09:38:51+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=39
+guid: https://mirkov.info/?p=39
 permalink: /social-networks/
 categories:
   - HowTo

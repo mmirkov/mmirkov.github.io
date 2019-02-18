@@ -4,7 +4,7 @@ title: 'Биос &#8220;beep&#8221; кодове'
 date: 2008-02-07T15:18:58+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=33
+guid: https://mirkov.info/?p=33
 permalink: /bios-beep-codes/
 categories:
   - HowTo

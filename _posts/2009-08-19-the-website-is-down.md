@@ -4,7 +4,7 @@ title: 'The Website Is Down &#8211; или поредната доза IT смя
 date: 2009-08-19T10:31:00+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=471
+guid: https://mirkov.info/?p=471
 permalink: /the-website-is-down/
 categories:
   - Uncategorized

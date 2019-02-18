@@ -4,7 +4,7 @@ title: 'Google Chrome 0.4.154.29 &#8211; update'
 date: 2008-12-04T14:22:49+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=328
+guid: https://mirkov.info/?p=328
 permalink: /google-chrome-041542-update/
 categories:
   - Tech

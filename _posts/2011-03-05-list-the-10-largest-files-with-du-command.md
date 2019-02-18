@@ -4,7 +4,7 @@ title: 'List the 10 Largest Files &#038; Directoris with &#8220;du&#8221; comman
 date: 2011-03-05T19:36:35+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=536
+guid: https://mirkov.info/?p=536
 permalink: /list-the-10-largest-files-with-du-command/
 categories:
   - Tech

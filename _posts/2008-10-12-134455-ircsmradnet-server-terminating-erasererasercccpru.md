@@ -4,7 +4,7 @@ title: '[13:44:55] -irc.smrad.net- Server Terminating. EraseR[eraser@CCCP.ru]'
 date: 2008-10-12T13:50:07+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=255
+guid: https://mirkov.info/?p=255
 permalink: /134455-ircsmradnet-server-terminating-erasererasercccpru/
 categories:
   - Uncategorized

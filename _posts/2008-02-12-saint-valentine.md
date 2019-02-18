@@ -4,7 +4,7 @@ title: Свети Валентин? Егати простотията!
 date: 2008-02-12T12:04:07+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=37
+guid: https://mirkov.info/?p=37
 permalink: /saint-valentine/
 categories:
   - Fun

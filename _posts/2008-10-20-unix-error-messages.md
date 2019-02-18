@@ -4,7 +4,7 @@ title: Unix Error Messages
 date: 2008-10-20T10:14:59+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=268
+guid: https://mirkov.info/?p=268
 permalink: /unix-error-messages/
 categories:
   - Fun

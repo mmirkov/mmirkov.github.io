@@ -4,7 +4,7 @@ title: 'Google Chrome 0.3.154.9 &#8211; update'
 date: 2008-10-31T21:49:14+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=281
+guid: https://mirkov.info/?p=281
 permalink: /google-chrome-031549-update/
 categories:
   - Uncategorized

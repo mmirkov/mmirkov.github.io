@@ -4,7 +4,7 @@ title: 'FIX: aws-cli &#8211; AWS was not able to validate the provided access cr
 date: 2015-07-14T23:47:29+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=743
+guid: https://mirkov.info/?p=743
 permalink: /fix-aws-was-not-able-to-validate-the-provided-access-credentials/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Optimize MySQL tables
 date: 2013-04-30T11:07:01+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=587
+guid: https://mirkov.info/?p=587
 permalink: /optimize-mysql-tables/
 categories:
   - Tech

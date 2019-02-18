@@ -4,7 +4,7 @@ title: 'RPM: List all installed packages by size'
 date: 2016-05-04T20:19:23+00:00
 author: Miroslav Mirkov
 layout: post
-guid: http://mirkov.info/?p=795
+guid: https://mirkov.info/?p=795
 permalink: /rpm-list-all-installed-packages-by-size/
 categories:
   - HowTo

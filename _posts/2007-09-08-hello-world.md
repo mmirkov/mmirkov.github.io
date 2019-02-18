@@ -4,7 +4,7 @@ title: Hello world
 date: 2007-09-08T15:30:05+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=6
+guid: https://mirkov.info/?p=6
 permalink: /hello-world/
 categories:
   - Uncategorized

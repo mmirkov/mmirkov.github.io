@@ -4,7 +4,7 @@ title: 'Полезни команди с NETSH &#8211; Network Services Shell'
 date: 2008-11-26T17:16:25+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=310
+guid: https://mirkov.info/?p=310
 permalink: /network-services-shell/
 categories:
   - Tech

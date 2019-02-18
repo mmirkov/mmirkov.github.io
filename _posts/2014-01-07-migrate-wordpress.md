@@ -4,7 +4,7 @@ title: Migrate wordpress
 date: 2014-01-07T21:52:36+00:00
 author: Miroslav Mirkov
 layout: post
-guid: http://mirkov.info/?p=637
+guid: https://mirkov.info/?p=637
 permalink: /migrate-wordpress/
 categories:
   - Uncategorized

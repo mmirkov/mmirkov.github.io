@@ -4,7 +4,7 @@ title: 'Apple&#8217;s iPhone OS 3.0 event'
 date: 2009-03-17T20:51:41+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=423
+guid: https://mirkov.info/?p=423
 permalink: /apples-iphone-os-30-event/
 categories:
   - Tech
@@ -16,7 +16,7 @@ Ars Technica:    Here&#8217;s a test to make sure the IRC guys are getting th
 7:10  
 Ars Technica:  Less than 3 hours remaining until we find out about the new iPhone 3.0 software  
 8:03  
-Ars Technica:    Thanks for all the nice comments everyone! Chartier is on his way<img src='http://mirkov.info/wp-includes/images/blank.gif' alt=':)' class='wp-smiley smiley-2' />  
+Ars Technica:    Thanks for all the nice comments everyone! Chartier is on his way<img src='https://mirkov.info/wp-includes/images/blank.gif' alt=':)' class='wp-smiley smiley-2' />  
 8:07  
 Ars Technica:    Just put up a little poll on the web interface, if we missed something send me a comment  
 <!--more-->
@@ -60,7 +60,7 @@ Ars Technica:    We are piping this into IRC at irc.arstechnica.com on the #a
 9:02  
 MrKurt:   You can talk to other &#8220;drinkers of the koolaid&#8221; in #macintosh on irc.arstechnica.com, too.  
 9:06  
-MrKurt:   We&#8217;re going to start showing some of the more insightful reader comments until the thinger starts.  Say something smart or witty and we might show everyone.<img src='http://mirkov.info/wp-includes/images/blank.gif' alt=':)' class='wp-smiley smiley-2' />  
+MrKurt:   We&#8217;re going to start showing some of the more insightful reader comments until the thinger starts.  Say something smart or witty and we might show everyone.<img src='https://mirkov.info/wp-includes/images/blank.gif' alt=':)' class='wp-smiley smiley-2' />  
 9:08  
 [Comment From matvey]  
 I would really like to see in 3.0 the long-promised background notifications  
@@ -140,7 +140,7 @@ MrKurt:  THANKS FOR THE RICKROLLS GUYS.
 [Comment From Jerry A]  
 I don&#8217;t have an iPhone, but my Blackberry plays music through my bluetooth car handsfree, which broadcasts through FM to my stereo. Wireless music, as well as phone call interruption. I&#8217;d love to do that when I get an iPhone. So not for headphones, but car use.  
 9:27  
-Ars Technica:    Just so everyone is aware, we are reading all your comments, but they are not automatically made public, we&#8217;ll promote them if you have something cool to say<img src='http://mirkov.info/wp-includes/images/blank.gif' alt=':)' class='wp-smiley smiley-2' />  
+Ars Technica:    Just so everyone is aware, we are reading all your comments, but they are not automatically made public, we&#8217;ll promote them if you have something cool to say<img src='https://mirkov.info/wp-includes/images/blank.gif' alt=':)' class='wp-smiley smiley-2' />  
 9:29  
 [Comment From Jet]  
 Something cool to say? How about, &#8220;MrKurt is a lovely human being and he smells like vanilla and strawberries.&#8221;  
@@ -486,7 +486,7 @@ David Chartier:  App can list data, turn it to display an interactive graph
 10:50  
 David Chartier:  LifeScan also working with FDA to meet all regulatory requirements.  
 10:50  
-David Chartier:  Protip, diabetes suffers typically have a lot of foot/leg issues<img src='http://mirkov.info/wp-includes/images/blank.gif' alt=':)' class='wp-smiley smiley-2' />  
+David Chartier:  Protip, diabetes suffers typically have a lot of foot/leg issues<img src='https://mirkov.info/wp-includes/images/blank.gif' alt=':)' class='wp-smiley smiley-2' />  
 10:51  
 David Chartier:  Scott Forstall back on stage. Next is ngmoco  
 10:51  

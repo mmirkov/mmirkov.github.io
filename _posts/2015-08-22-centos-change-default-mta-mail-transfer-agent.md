@@ -4,7 +4,7 @@ title: 'CentOS: Change default MTA (Mail Transfer Agent)'
 date: 2015-08-22T17:19:34+00:00
 author: Miroslav Mirkov
 layout: post
-guid: http://mirkov.info/?p=752
+guid: https://mirkov.info/?p=752
 permalink: /centos-change-default-mta-mail-transfer-agent/
 categories:
   - HowTo

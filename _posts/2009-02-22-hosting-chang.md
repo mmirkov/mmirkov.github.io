@@ -4,7 +4,7 @@ title: Успешна смяна на хостинг
 date: 2009-02-22T12:04:59+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=390
+guid: https://mirkov.info/?p=390
 permalink: /hosting-chang/
 categories:
   - Uncategorized

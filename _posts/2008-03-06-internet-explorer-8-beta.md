@@ -4,7 +4,7 @@ title: Internet Explorer 8 Beta
 date: 2008-03-06T11:56:38+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=59
+guid: https://mirkov.info/?p=59
 permalink: /internet-explorer-8-beta/
 categories:
   - Tech

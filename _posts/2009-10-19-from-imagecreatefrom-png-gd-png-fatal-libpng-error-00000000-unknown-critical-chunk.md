@@ -4,7 +4,7 @@ title: 'from imagecreatefrom png:      gd-png:  fatal libpng error: [00][00][00]
 date: 2009-10-19T18:39:53+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/2009/10/from-imagecreatefrom-png-gd-png-fatal-libpng-error-00000000-unknown-critical-chunk/
+guid: https://mirkov.info/2009/10/from-imagecreatefrom-png-gd-png-fatal-libpng-error-00000000-unknown-critical-chunk/
 permalink: /from-imagecreatefrom-png-gd-png-fatal-libpng-error-00000000-unknown-critical-chunk/
 categories:
   - HowTo

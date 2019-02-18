@@ -4,7 +4,7 @@ title: Турски превод (lost in translation)
 date: 2009-01-22T20:58:11+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=376
+guid: https://mirkov.info/?p=376
 permalink: /turkish-translation/
 categories:
   - Entertainment

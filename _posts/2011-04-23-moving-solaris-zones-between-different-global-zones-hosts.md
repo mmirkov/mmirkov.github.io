@@ -4,7 +4,7 @@ title: Moving solaris zones between different global zones (hosts)
 date: 2011-04-23T15:18:23+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=555
+guid: https://mirkov.info/?p=555
 permalink: /moving-solaris-zones-between-different-global-zones-hosts/
 categories:
   - Tech
@@ -32,4 +32,4 @@ On the second server:
 5. zoneadm -z ZONENAME attach
 6. zoneadm -z ZONENAME boot</pre>
 
-You&#8217;re good to go<img src='http://mirkov.info/wp-includes/images/blank.gif' alt=':)' class='wp-smiley smiley-2' />
+You&#8217;re good to go<img src='https://mirkov.info/wp-includes/images/blank.gif' alt=':)' class='wp-smiley smiley-2' />

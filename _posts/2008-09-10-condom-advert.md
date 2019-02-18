@@ -4,7 +4,7 @@ title: Реклама на кондоми
 date: 2008-09-10T22:41:59+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=170
+guid: https://mirkov.info/?p=170
 permalink: /condom-advert/
 categories:
   - Fun

@@ -4,7 +4,7 @@ title: Използване на SCP пример
 date: 2008-10-22T16:34:27+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=273
+guid: https://mirkov.info/?p=273
 permalink: /scp-primer/
 categories:
   - Uncategorized

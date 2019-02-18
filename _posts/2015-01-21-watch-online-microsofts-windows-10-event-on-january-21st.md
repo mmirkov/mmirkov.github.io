@@ -4,7 +4,7 @@ title: Watch (online) Microsoft’s Windows 10 Event On January 21st
 date: 2015-01-21T16:40:43+00:00
 author: Miroslav Mirkov
 layout: post
-guid: http://mirkov.info/?p=721
+guid: https://mirkov.info/?p=721
 permalink: /watch-online-microsofts-windows-10-event-on-january-21st/
 categories:
   - Uncategorized

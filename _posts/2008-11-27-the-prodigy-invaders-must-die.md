@@ -4,7 +4,7 @@ title: 'The Prodigy &#8211; Invaders Must Die'
 date: 2008-11-27T00:13:40+00:00
 author: Мирков
 layout: post
-guid: http://mirkov.info/?p=319
+guid: https://mirkov.info/?p=319
 permalink: /the-prodigy-invaders-must-die/
 categories:
   - Entertainment
