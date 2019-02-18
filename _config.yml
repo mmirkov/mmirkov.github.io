@@ -1,31 +1,40 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-# Setup
-title:            Miroslav Mirkov
-tagline:          Just some random thoughts
-description:      ""
-url:              https://mmirkov.github.io
-baseurl:          https://mmirkov.github.io/
-                  # the optional subpath of your site, e.g. "/my-jekyll-site/"
-                  # This will apply to all pages in your Jekyll site.
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: rouge
+markdown: kramdown
+disqus: 
+google_analytics: 
+title: Miroslav Mirkov
 
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Miroslav Mirkov
+
+description: Just some random thoughts 
 author:
-  name:           Miroslav Mirkov
-  url:            https://mmirkov.github.io
+  name: Miroslav Mirkov
+  email: mirkov@gmail.com
+  github: mmirkov
+  twitter:
+  pinterest:
+  linkedin: mmirkov
+  bio: Your stylish, minimalist theme!
+  email_md5: 
 
-paginate:         10
-# paginate_path:    '/page:num'
-                    # Or '/my-jekyll-site/page:num' if you want to move your index pages
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
 
 plugins:
-  - jekyll-feed
-  - jekyll-gist
   - jekyll-paginate
-
-# Custom vars
-version:            2.0.1
-
-github:
-  repo:             https://github.com/karloespiritu/blackdoc
