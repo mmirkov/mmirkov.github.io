@@ -25,7 +25,7 @@ author:
   pinterest:
   linkedin: mmirkov
   bio: Just some random thoughts
-  email_md5: 
+  email_md5: 20afbcf88a17e1c67ff71d48b04725a3
 
 rss_path: feed.xml
 categories_path: categories.html
@@ -33,7 +33,7 @@ tags_path: tags.html
 
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
-sidebar_background_image: https://i.imgur.com/pCLQlKv.png
+#sidebar_background_image: https://i.imgur.com/pCLQlKv.png
 
 BASE_PATH:
 
